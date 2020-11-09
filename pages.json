@@ -1,0 +1,114 @@
+{
+	"pages": [{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登録"
+			}
+		},
+		{
+			"path": "pages/tableList/tableList",
+			"style": {
+				"navigationBarTitleText": "席一覧"
+			}
+		},
+
+		{
+			"path": "pages/orderList/orderList",
+			"style": {
+				"navigationBarTitleText": "注文情報"
+			}
+		},
+		{
+			"path": "pages/table/table",
+			"style": {
+				"navigationBarTitleText": "席情報"
+			}
+		},
+		{
+			"path": "pages/food/food",
+			"style": {
+				"navigationBarTitleText": "注文"
+			}
+		},
+		{
+			"path": "pages/homePage/homePage",
+			"style": {
+				"navigationBarTitleText": "トップページ"
+			}
+		},
+		{
+			"path": "pages/orderAccount/orderAccount",
+			"style": {
+				"navigationBarTitleText": "会計"
+			}
+		},
+		{
+			"path": "pages/appointment/appointment",
+			"style": {
+				"navigationBarTitleText": "受付"
+			}
+		},
+		{
+			"path": "pages/matching/matching",
+			"style": {
+				"navigationBarTitleText": "配席"
+			}
+		},
+		{
+			"path": "pages/orderDetail/orderDetail",
+			"style": {
+				"navigationBarTitleText": "注文詳細"
+			}
+		},
+		{
+			"path": "pages/turnOver/turnOver",
+			"style": {
+				"navigationBarTitleText": "売上"
+			}
+		},
+		{
+			"path": "pages/removeTable/removeTable",
+			"style": {
+				"navigationBarTitleText": "席解除"
+			}
+		},
+		{
+			"path": "pages/orderAccount/scan",
+			"style": {
+				"navigationBarTitleText": "コードスキャン"
+			}
+		},
+		{
+			"path": "pages/reserve/reserveList",
+			"style": {
+				"navigationBarTitleText": "予約一览"
+			}
+		},
+		{
+			"path": "pages/orderAccount/orderAccountShare",
+			"style": {
+				"navigationBarTitleText": "结账"
+			}
+		},
+		{
+			"path": "pages/inspection/inspection",
+			"style": {
+				"navigationBarTitleText": "点検"
+			}
+		},
+		{
+			"path": "pages/settle/settle",
+			"style": {
+				"navigationBarTitleText": "精算"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF",
+		"pageOrientation": "landscape"
+	}
+}
